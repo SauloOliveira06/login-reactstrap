@@ -44,3 +44,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![register](https://user-images.githubusercontent.com/19229171/108304725-00045000-717f-11eb-87b7-ba04a6415eb6.jpg)
 
 
+## Register
+
+![login](https://user-images.githubusercontent.com/19229171/108304698-f24eca80-717e-11eb-864a-307ec88ba408.jpg)
